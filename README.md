@@ -1,2 +1,2 @@
 # python_lab2
-![srcreenshot](result.png)
+![srcreenshot](var2.png)
